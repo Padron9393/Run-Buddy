@@ -88,13 +88,14 @@ padding: 20px;
 width: 500px;
 color: #024e76;
 position: absolute;
-bottom: 120px;
+bottom: 150px;
 right: 140px;
  }
 .hero-form h3 {
-   font-size: 55px;
+   font-size: 24px;
   margin: 0;
 }
+
 .hero-form p {
   margin: 5px 0 15px 0;
 }
@@ -112,6 +113,7 @@ right: 140px;
 .hero-form label {
    margin: 0 5px;
   }
+
 .hero-form button{
   color: #fce138;
    background-color: #024e76;
